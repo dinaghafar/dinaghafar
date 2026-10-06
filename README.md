@@ -1,4 +1,4 @@
-# Hi, I'm Irdina! 👋
+# Hi, I'm Dina Ghafar! 👋
 
 🎓 Final Year Intelligent System Engineering student at Universiti Teknologi MARA (UiTM)  
 💻 Interested in **Data Analytics, Data Science, Data Engineering, Machine Learning & AI**  
